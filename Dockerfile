@@ -1,3 +1,4 @@
+#base image
 FROM adoptopenjdk/openjdk11
 #PORT
 EXPOSE 8080
