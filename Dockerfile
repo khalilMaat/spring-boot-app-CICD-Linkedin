@@ -1,5 +1,5 @@
 FROM adoptopenjdk/openjdk11
-    
+#PORT
 EXPOSE 8080
  
 ENV APP_HOME /usr/src/app
