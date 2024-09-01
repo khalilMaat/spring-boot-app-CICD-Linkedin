@@ -7,6 +7,7 @@ ENV APP_HOME /usr/src/app
 
 COPY target/*.jar $APP_HOME/app.jar
 
+#path of project in container
 WORKDIR $APP_HOME
 
 #command to run app
