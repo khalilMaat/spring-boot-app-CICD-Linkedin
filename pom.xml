@@ -9,6 +9,7 @@
 		<version>2.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
 	<groupId>com.javaproject</groupId>
 	<artifactId>database_service_project</artifactId>
 	<version>0.0.5</version>
