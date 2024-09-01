@@ -9,4 +9,5 @@ COPY target/*.jar $APP_HOME/app.jar
 
 WORKDIR $APP_HOME
 
+#command to run app
 CMD ["java", "-jar", "app.jar"]
